@@ -5,10 +5,15 @@
 let array = [];
 let userInput = parseInt(prompt('inserisci un numero'));
 array.push(userInput);
+let arraySum = array.reduce;
+
 
 while (somma < 50){
     userInput = parseInt(prompt('inserisci un numero'));
-    
+    array.push(userInput);
+    if (array.reduce < 50){
+
+    }
 }
 
 
